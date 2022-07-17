@@ -1,0 +1,14 @@
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Resource\bin\Debug\net6.0\CustomerSupport.Resource.deps.json
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Resource\bin\Debug\net6.0\CustomerSupport.Resource.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Resource\bin\Debug\net6.0\ref\CustomerSupport.Resource.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Resource\bin\Debug\net6.0\CustomerSupport.Resource.pdb
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Resource\obj\Debug\net6.0\CustomerSupport.Resource.Geral.resources
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Resource\obj\Debug\net6.0\CustomerSupport.Resource.csproj.GenerateResource.cache
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Resource\obj\Debug\net6.0\CustomerSupport.Resource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Resource\obj\Debug\net6.0\CustomerSupport.Resource.AssemblyInfoInputs.cache
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Resource\obj\Debug\net6.0\CustomerSupport.Resource.AssemblyInfo.cs
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Resource\obj\Debug\net6.0\CustomerSupport.Resource.csproj.CoreCompileInputs.cache
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Resource\obj\Debug\net6.0\CustomerSupport.Resource.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Resource\obj\Debug\net6.0\ref\CustomerSupport.Resource.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Resource\obj\Debug\net6.0\CustomerSupport.Resource.pdb
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Resource\obj\Debug\net6.0\CustomerSupport.Resource.csproj.AssemblyReference.cache

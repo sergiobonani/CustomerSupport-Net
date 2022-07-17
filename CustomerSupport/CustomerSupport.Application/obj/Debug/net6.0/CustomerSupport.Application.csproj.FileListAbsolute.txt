@@ -1,0 +1,17 @@
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\bin\Debug\net6.0\CustomerSupport.Application.deps.json
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\bin\Debug\net6.0\CustomerSupport.Application.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\bin\Debug\net6.0\ref\CustomerSupport.Application.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\bin\Debug\net6.0\CustomerSupport.Application.pdb
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\obj\Debug\net6.0\CustomerSupport.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\obj\Debug\net6.0\CustomerSupport.Application.AssemblyInfoInputs.cache
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\obj\Debug\net6.0\CustomerSupport.Application.AssemblyInfo.cs
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\obj\Debug\net6.0\CustomerSupport.Application.csproj.CoreCompileInputs.cache
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\obj\Debug\net6.0\CustomerSupport.Application.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\obj\Debug\net6.0\ref\CustomerSupport.Application.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\obj\Debug\net6.0\CustomerSupport.Application.pdb
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\obj\Debug\net6.0\CustomerSupport.Application.csproj.AssemblyReference.cache
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\bin\Debug\net6.0\CustomerSupport.Domain.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\bin\Debug\net6.0\CustomerSupport.Domain.pdb
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\obj\Debug\net6.0\CustomerSupport.Application.csproj.CopyComplete
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\bin\Debug\net6.0\CustomerSupport.Resource.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\bin\Debug\net6.0\CustomerSupport.Resource.pdb
