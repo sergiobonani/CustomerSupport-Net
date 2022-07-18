@@ -50,7 +50,6 @@ namespace CustomerSupport.Application.Tests.Services
             var result = service.Add(newEntity);
 
             result.IsSuccess.Should().BeTrue();
-            result.Errors.Count.Should().NotBe(0);
         }
 
 
