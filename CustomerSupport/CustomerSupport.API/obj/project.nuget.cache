@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PUewsQh4KWE1sKiTWUMaEXlZrdsVgfTPSc4BZfu/MRzrU5MzcyL0Jv7CVFDrOfa1R/G9YRY9uw5piLFKnb0plQ==",
+  "dgSpecHash": "cYDDa0IOZVBSNf5HcLFFpBdbdpDGNBMpcSiDtWHw6Iad7lmTtMqHMklwZd8WZgW9VYYoe4R5j4B7DH7xUwIOtQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\SergioBonani\\Documents\\Projetos\\CustomerSupport-Net\\CustomerSupport\\CustomerSupport.API\\CustomerSupport.API.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,7 @@
     "C:\\Users\\SergioBonani\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\SergioBonani\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\SergioBonani\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SergioBonani\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\SergioBonani\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\SergioBonani\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\SergioBonani\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.2\\swashbuckle.aspnetcore.6.3.2.nupkg.sha512",

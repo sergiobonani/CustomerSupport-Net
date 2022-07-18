@@ -1,0 +1,9 @@
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\bin\Release\net6.0\publish\CustomerSupport.Application.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\bin\Release\net6.0\publish\CustomerSupport.Application.deps.json
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\bin\Release\net6.0\publish\CustomerSupport.Application.pdb
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\bin\Release\net6.0\publish\AutoMapper.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\bin\Release\net6.0\publish\FluentValidation.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\bin\Release\net6.0\publish\CustomerSupport.Domain.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\bin\Release\net6.0\publish\CustomerSupport.Resource.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\bin\Release\net6.0\publish\CustomerSupport.Domain.pdb
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Application\bin\Release\net6.0\publish\CustomerSupport.Resource.pdb

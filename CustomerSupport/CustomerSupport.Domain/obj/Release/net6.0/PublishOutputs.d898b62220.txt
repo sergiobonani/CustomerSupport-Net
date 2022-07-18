@@ -1,0 +1,3 @@
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Domain\bin\Release\net6.0\publish\CustomerSupport.Domain.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Domain\bin\Release\net6.0\publish\CustomerSupport.Domain.deps.json
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Domain\bin\Release\net6.0\publish\CustomerSupport.Domain.pdb

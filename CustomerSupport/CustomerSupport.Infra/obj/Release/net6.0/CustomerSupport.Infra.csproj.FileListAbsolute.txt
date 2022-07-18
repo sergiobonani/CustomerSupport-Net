@@ -1,0 +1,17 @@
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Infra\bin\Release\net6.0\CustomerSupport.Infra.deps.json
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Infra\bin\Release\net6.0\CustomerSupport.Infra.runtimeconfig.json
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Infra\bin\Release\net6.0\CustomerSupport.Infra.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Infra\bin\Release\net6.0\ref\CustomerSupport.Infra.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Infra\bin\Release\net6.0\CustomerSupport.Infra.pdb
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Infra\bin\Release\net6.0\CustomerSupport.Domain.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Infra\bin\Release\net6.0\CustomerSupport.Domain.pdb
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Infra\obj\Release\net6.0\CustomerSupport.Infra.csproj.AssemblyReference.cache
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Infra\obj\Release\net6.0\CustomerSupport.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Infra\obj\Release\net6.0\CustomerSupport.Infra.AssemblyInfoInputs.cache
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Infra\obj\Release\net6.0\CustomerSupport.Infra.AssemblyInfo.cs
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Infra\obj\Release\net6.0\CustomerSupport.Infra.csproj.CoreCompileInputs.cache
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Infra\obj\Release\net6.0\CustomerSupport.Infra.csproj.CopyComplete
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Infra\obj\Release\net6.0\CustomerSupport.Infra.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Infra\obj\Release\net6.0\ref\CustomerSupport.Infra.dll
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Infra\obj\Release\net6.0\CustomerSupport.Infra.pdb
+C:\Users\SergioBonani\Documents\Projetos\CustomerSupport-Net\CustomerSupport\CustomerSupport.Infra\obj\Release\net6.0\CustomerSupport.Infra.genruntimeconfig.cache
