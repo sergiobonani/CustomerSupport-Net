@@ -1,0 +1,9 @@
+<div class="container">
+    <h3 mat-dialog-title>You'll delete the issue opened by <a style="text-transform: uppercase;">{{data.email}}</a>.<br/>Are you sure about that?</h3>
+  
+    <div mat-dialog-actions>
+      <button mat-button (click)="confirmDelete()">Yes</button>
+      <button mat-button (click)="onNoClick()" tabindex="-1">No</button>
+    </div>
+  </div>
+  

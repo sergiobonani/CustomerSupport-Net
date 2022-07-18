@@ -40,7 +40,7 @@ Style
 
 # How to use Backend?
 - If you need, change the DB connection string in CustomerSupport.API/appsettings.json
-- By default the migrations are automatic, so you need just run the application in VS.
+- By default the migrations are automatic (if you prefer to run manual just comment startup.cs lines 75 to 79), so you need just run the application in VS.
 
 - Or if you prefer, you can run with docker. 
 	In this case the Dockerfile is in CustomerSupport file.

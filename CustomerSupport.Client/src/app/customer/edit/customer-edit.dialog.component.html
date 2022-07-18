@@ -1,0 +1,55 @@
+<div class="container">
+  <h3 mat-dialog-title>Customer Form</h3>
+
+  <form class="mat-dialog-content" (ngSubmit)="submit" #formControl="ngForm">
+
+    <div class="form">
+      <mat-form-field color="accent" appearance="fill">
+        <mat-label>Email</mat-label>
+        <input type="email" [(ngModel)]="data.email" matInput [formControl]="emailFormControl" [errorStateMatcher]="matcher"
+          placeholder="Ex. pat@example.com">
+        <mat-error *ngIf="emailFormControl.hasError('email') && !emailFormControl.hasError('required')">
+          Please enter a valid email address
+        </mat-error>
+      </mat-form-field>
+    </div>
+
+    <div class="form">
+      <mat-form-field color="accent">
+        <input max="10" required matInput placeholder="Phone" [(ngModel)]="data.phone" name="phone">
+      </mat-form-field>
+    </div>
+
+    <div class="form">
+      <mat-form-field color="accent">
+        <input max="10" type="number" matInput placeholder="Number" [(ngModel)]="data.number" name="number">
+      </mat-form-field>
+    </div>
+
+    <mat-form-field appearance="fill">
+      <mat-label>Type Inquiry</mat-label>
+      <mat-select [(ngModel)]="data.typeInquiry" name="inquiry">
+        <mat-option *ngFor="let inquiry of inquiries" [value]="inquiry.id">
+          {{inquiry.description}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <div class="form">
+      <mat-form-field color="accent">
+        <input matInput placeholder="Issue Description" required [(ngModel)]="data.issueDescription" name="issueDescription">
+      </mat-form-field>
+    </div>
+
+    <div class="form">
+        <section >
+          <mat-checkbox required name="agreeTerms" [(ngModel)]="data.agreeTerms" [checked]="data.agreeTerms">Agree to the Terms</mat-checkbox>
+        </section>
+      </div>
+
+    <div mat-dialog-actions>
+      <button mat-button [type]="submit" [disabled]="!formControl.valid || emailFormControl.hasError('email')" (click)="save()">Save</button>
+      <button mat-button (click)="onNoClick()" tabindex="-1">Cancel</button>
+    </div>
+  </form>
+</div>
