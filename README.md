@@ -50,4 +50,5 @@ Style
 
 # How to use Frontend?
 - The project is CustomerSupport.Client. This project is not linked to the backend, this is you can use separeted.
+	Check *apiUrl* in environment. If need to change the port. 
 - Just run with 'npm run'
